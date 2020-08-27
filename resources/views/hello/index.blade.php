@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Hello/index</title>
+    <title>Hello</title>
   </head>
   <body>
     <ol>
